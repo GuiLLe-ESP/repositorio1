@@ -1,7 +1,7 @@
 
 package pruebagithub;
 
-// Modificado
+// Modificado //
 
 public class Persona {
     
