@@ -3,6 +3,8 @@ package pruebagithub;
 
 // Modificado //
 
+// Editando desde GitHub //
+
 public class Persona {
     
     private String nombre;
