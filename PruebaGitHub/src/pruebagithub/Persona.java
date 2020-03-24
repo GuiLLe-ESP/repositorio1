@@ -1,6 +1,7 @@
 
 package pruebagithub;
 
+// Modificado
 
 public class Persona {
     
@@ -40,9 +41,9 @@ public class Persona {
 
     @Override
     public String toString() {
+        
         return "\nNombre: "+this.nombre+"\nApellidos: "+this.apellidos;
+        
     }
     
-    
-
 }
